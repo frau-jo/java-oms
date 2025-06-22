@@ -1,0 +1,27 @@
+MILK TEA ORDERING AND INVENTORY MANAGEMENT SYSTEM
+
+Essential Data
+
+*LOGIN
+
+(As Cashier)
+- ID: SUNTEAPH01
+- USERNAME: (any)
+- PASSWORD: ilovesuntea (can be changed)
+
+(As Manager)
+- ID: SUNTEAPHMAN02
+- USERNAME: (any)
+- PASSWORD: ilovesunteaph (can be changed)
+
+
+*IDENTITY VERIFICATION
+
+1. On what date did SUNTEA start its operations?
+ANS: May 10, 2018
+
+2. Name SUNTEA's bestselling drink in 2019.
+ANS: Nutella Addiction
+
+3. Who made up the business name?
+ANS: John Paul Calamba (or) Jurgen Vega

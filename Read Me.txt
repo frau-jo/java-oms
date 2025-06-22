@@ -1,0 +1,7 @@
+
+
+IF YOU WANT TO RUN THE EXE FILE:
+
+Before running the executable (.exe) file of the Milk Tea Ordering and Inventory Management System inside the "dist" folder, kindly open the database first by referring to the "Steps in Opening the Database" inside the provided "Milk Tea Ordering and Inventory Management System Process of Running the System Maintenance File.pdf".
+
+Thank You. Godbless!
